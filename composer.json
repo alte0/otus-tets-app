@@ -1,0 +1,13 @@
+{
+    "name": "alte0/otus-tets-app",
+    "type": "library",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Alte0\\OtusTestApp\\": "src/"
+        }
+    },
+    "require": {
+        "php": "8.2"
+    }
+}
