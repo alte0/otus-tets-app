@@ -1,5 +1,5 @@
 {
-    "name": "alte0/otus-tets-app",
+    "name": "alte0/otus-test-app",
     "type": "library",
     "autoload": {
         "psr-4": {
