@@ -1,6 +1,6 @@
 # Requirements
 ```
-php version 8.2 
+php version >= 7.4
 ```
 # Install
 ```
